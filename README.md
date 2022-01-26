@@ -24,15 +24,15 @@ Como anteriormente citado, nosso objetivo tem como unir diferentes módulos de o
 
 1. [Organização no github](https://github.com/maiselfy)
 2. [Repositório de cógidos fonte do Back-End da Maiself](https://github.com/maiselfy/backend)
-3. [Repositório de cógidos fonte do Front-End da Maiself](https://github.com/maiselfy/frontend)
+3. [Repositório de cógidos fonte do Aplicativo da Maiself](https://github.com/maiselfy/appmaiself)
 
 
 # Sumário da nossa Documentação
 
-1. [Relatório Geral do Sistema - Concepção e Elicitação dos Requisitos do Sistema](https://github.com/italolima04/maiself-documentacao/blob/master/Relat%C3%B3rio%20Maiself.pdf)
+1. [Relatório Geral do Sistema - Concepção e Elicitação dos Requisitos do Sistema](https://github.com/italolima04/maiself-documentacao-pi-III/blob/master/Relat%C3%B3rio%20Maiself%20.pdf)
     * Este documentos reune à concepção do sistema, o documento de visão e os principais requisitos funcionais e não funcionais priorizados pela equipe da Maiself.
 
-2. [Documento de Introdução e Descrição de Testes e Seus Mecanismos Utilizados](https://github.com/italolima04/maiself-documentacao/blob/master/teste-jest.pdf)
+2. [Documento de Introdução e Descrição de Testes e Seus Mecanismos Utilizados](https://github.com/italolima04/maiself-documentacao-pi-III/blob/master/Relat%C3%B3rio%20de%20testes%20unit%C3%A1rios.pdf)
     * Este documentos reune uma introdução e descrição sobre testes e apresenta os mecanismos que serão utilizados para testar o nosso sistema.
 
 3. [Modelo Entitade Relacionamento](https://github.com/italolima04/maiself-documentacao/blob/master/MER.png)
@@ -40,3 +40,12 @@ Como anteriormente citado, nosso objetivo tem como unir diferentes módulos de o
 
 4. [Projeto de Interação da Maiself](https://github.com/italolima04/maiself-documentacao/blob/master/FluxoNavega%C3%A7%C3%A3o.jpg)
     * Esta sessão reune os documentos de projeto de interação e o fluxo de navegação do sistema a ser desenvolvido.
+
+5. [Plano de medição da Qualidade](https://github.com/italolima04/maiself-documentacao-pi-III/blob/master/Plano%20de%20Medi%C3%A7%C3%A3o%20-%20Maiself.pdf)
+    * Esta sessão reune o documento com o planejamento referente à qualidade do software, definição e exemplificação das métricas (externas e internas) de  qualidade, etc.
+   
+6.  [Relatório de Qualidade](https://github.com/italolima04/maiself-documentacao-pi-III/blob/master/Relatorio%20de%20Qualidade%20-%20Maiself.pdf)
+   * Esta sessão reune os resultados das métricas de qualidade aplicadas, a partir da utilização por usuários reais.
+   
+7.  [Link para Ferramenta de Trackeamento das Tasks](https://sharing.clickup.com/l/h/2z2f9-164/43ca3265645e1ee)
+   * Esta sessão armazena o link para a ferramenta de gerenciamento das atividades a serem desenvolvidas, no projeto.
